@@ -10,5 +10,6 @@
 Git 첫번째 테스트 
 git 두번째 테스트
 Git 세번째 테스트
+git pull 테스트
 </body>
 </html>
